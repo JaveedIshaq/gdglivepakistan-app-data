@@ -40,7 +40,8 @@
         "name" : "Javeed Ishaq",
         "profileImage": "https://raw.githubusercontent.com/JaveedIshaq/gdglivepakistan-app-data/main/images/javeedishaq.jpg",
         "Designation": "Android | Flutter Engineer",
-        "company" : "Farabi Academy"
+        "company" : "Farabi Academy",
+        "linkedin":"https://www.linkedin.com/in/javeed-ishaq/"
     },
     {
         "name" : "Muhammad Hanif",
