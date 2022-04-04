@@ -3,33 +3,38 @@
         "name" : "Hufsa Munawar",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/hufsa-munawar.png",
         "Designation": "Commuity Manager",
-        "company" : "Google"
+        "company" : "Google",
+        "linkedin":"https://www.linkedin.com/in/hufsamunawar/"
     },
 
     {
         "name" : "Fawad Kamal",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/fawad-kamal.png",
-        "Designation": "GDG Live Pakistan Manager",
-        "company" : "Bolt Marketing"
+        "Designation": "Community Manager GDG Live Pakistan",
+        "company" : "Bolt Marketing",
+        "linkedin":"https://www.linkedin.com/in/fawad-kamal-0b369b151/"
     },
     {
         "name" : "Manahil Qureshi",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/manahil-qureshi.png",
-        "Designation": "Designation",
-        "company" : "Compnay Name"
+        "Designation": "Digital Marketing Associate",
+        "company" : "RepStack",
+        "linkedin":"https://www.linkedin.com/in/manahil-qureshi-94b6b287/"
     },
     {
         "name" : "Ahmad Khan",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/ahmad-khan.png",
-        "Designation": "Designation",
-        "company" : "Compnay Name"
+        "Designation": "Mobile App Dev (Flutter)",
+        "company" : "Cross Code",
+        "linkedin":"https://www.linkedin.com/in/rmahmadkhan/"
     },
     
     {
         "name" : "Ghania Munawar",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
-        "Designation": "Designation",
-        "company" : "Compnay Name"
+        "Designation": "Architect",
+        "company" : "ZARA AND ZARA DESIGN STUDIO",
+        "linkedin":"https://www.linkedin.com/in/ghaniya-munawar-a43aa91ba/"
     },
     {
         "name" : "Javeed Ishaq",
@@ -40,37 +45,43 @@
     {
         "name" : "Muhammad Hanif",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
-        "Designation": "Designation",
-        "company" : "Compnay Name"
+        "Designation": "NomiNow",
+        "company" : "Graphic Designer & Manager",
+        "linkedin":"https://www.linkedin.com/in/m-haneef-405605193/"
     },
     {
         "name" : "Muhammad Farhan",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/muhammad-farhan.png",
-        "Designation": "Designation",
-        "company" : "Compnay Name"
+        "Designation": "Campus Lead",
+        "company" : "RemotebaseRemotebase",
+        "linkedin":"https://www.linkedin.com/in/iammuhammadfarhan/"
     },
     {
         "name" : "Ali Azaz",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
         "Designation": "Designation",
-        "company" : "Compnay Name"
+        "company" : "Compnay Name",
+        "linkedin":"https://www.linkedin.com/company/gdglivepakistan/"
     },
     {
         "name" : "Eman Ahmad",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
         "Designation": "Designation",
-        "company" : "Compnay Name"
+        "company" : "Compnay Name",
+        "linkedin":"https://www.linkedin.com/company/gdglivepakistan/"
     },
     {
         "name" : "Muhammad Anwar",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
-        "Designation": "Designation",
-        "company" : "Compnay Name"
+        "Designation": "Python Developer",
+        "company" : "Fiverr",
+        "linkedin":"https://www.linkedin.com/in/mmohamed-anwar/"
     },
     {
         "name" : "Muhammad Hasan",
         "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
         "Designation": "Designation",
-        "company" : "Compnay Name"
+        "company" : "Compnay Name",
+        "linkedin":"https://www.linkedin.com/company/gdglivepakistan/"
     }
 ]
