@@ -1,0 +1,76 @@
+[
+    {
+        "name" : "Hufsa Munawar",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/hufsa-munawar.png",
+        "Designation": "Commuity Manager",
+        "company" : "Google"
+    },
+
+    {
+        "name" : "Fawad Kamal",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/fawad-kamal.png",
+        "Designation": "GDG Live Pakistan Manager",
+        "company" : "Bolt Marketing"
+    },
+    {
+        "name" : "Manahil Qureshi",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/manahil-qureshi.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    {
+        "name" : "Ahmad Khan",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/ahmad-khan.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    
+    {
+        "name" : "Ghania Munawar",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    {
+        "name" : "Javeed Ishaq",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/javeedishaq.jpg",
+        "Designation": "Android | Flutter Engineer",
+        "company" : "Farabi Academy"
+    },
+    {
+        "name" : "Muhammad Hanif",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    {
+        "name" : "Muhammad Farhan",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/muhammad-farhan.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    {
+        "name" : "Ali Azaz",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    {
+        "name" : "Eman Ahmad",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    {
+        "name" : "Muhammad Anwar",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    },
+    {
+        "name" : "Muhammad Hasan",
+        "profileImage": "https://github.com/JaveedIshaq/gdglivepakistan-app-data/blob/main/images/gdglivepakistan-core.png",
+        "Designation": "Designation",
+        "company" : "Compnay Name"
+    }
+]
